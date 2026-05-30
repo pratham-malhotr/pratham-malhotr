@@ -1,10 +1,6 @@
-# About Me:
-B.Tech CSE Undergraduate @ Newton School of Technology <br>
-Aspiring software engineer passionate about building intelligent and scalable software solutions <br>
-Strong foundation in Python, HTML, CSS, and JavaScript with a growing focus on full-stack development <br>
-Machine Learning and Deep Learning enthusiast exploring data-driven intelligence and AI-powered systems <br>
-Currently learning React and Solidity to develop modern web and blockchain-based applications <br>
-Driven by continuous learning, innovation, and creating impactful technology
+# About Me : 
+B.Tech CSE undergraduate at Newton School of Technology focused on AI-driven fintech, scalable software systems, and intelligent automation. Skilled in Python, React, TypeScript, Machine Learning, Agentic AI, RAG, LangGraph, and data analytics. Built production-oriented projects in credit risk assessment, banking analytics, and fintech platforms with strong interests in full-stack engineering, financial intelligence systems, and modern product architecture.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratham.malhotra_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pratham-malhotra-111553323/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathammalhotra2410@gmail.com) 
